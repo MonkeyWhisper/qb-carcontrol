@@ -1,3 +1,16 @@
+# How it should look if you want to add it to qb-radialmenu config.lua 
+
+{
+                id = 'vehiclemenu',
+                title = 'Car Control',
+                icon = 'bars',
+                type = 'client',
+                event = 'ccvehmenu:client:openMenu',
+                shouldClose = true
+            }
+            
+![image](https://user-images.githubusercontent.com/82112471/145700852-51d2445e-c6b4-4eed-a0c2-a2ab4ff77b00.png)
+
 # A Car Control Menu for QBCore Framework
 
 ## Preview 
